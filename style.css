@@ -1,0 +1,23 @@
+body {
+    min-height: 2000px;
+    background-color: #273036;
+}
+
+.navbar {
+    color: #273036;
+    background-color: white;
+}
+
+.hero {
+    padding-top: 2rem;
+    background-color: white;
+    margin-top: 0;
+}
+
+.about {
+    background-color: #273036;
+}
+
+#project {
+    background-color: white;
+}
